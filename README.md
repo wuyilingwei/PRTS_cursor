@@ -19,6 +19,21 @@ Reference mouse pointer: Deepin; an old crippled PRTS cursor package (can't find
 
 Pointer size is 32x32, which can be used for web pages. Dynamic cursor is 4jifs, i.e. 15 frames per second (in theory)
 
+下载在右侧的Release中
+
+Downloads are in Release on the right
+
 ~终于在电脑上也能被神经网络气死了~
 
 ~Finally, you can be pissed off by neural networks on your computer too~
+
+
+如果使用了该光标包的网站/系统，欢迎将其展示出来@.@
+
+If a site/system uses this cursor package, it is welcome to show it @. @.
+
+## 许可要求(Licensing Requirements)
+
+不必因MIT许可证与其他许可证冲突而担心，你可以以任何形式在合理署名的情况下免费使用，但是严禁以任何形式售卖，否则自动收回使用授权。
+
+No need to worry about conflicts between MIT licenses and other licenses, you can use it for free in any form with reasonable attribution, but selling it in any form is strictly prohibited, otherwise the license to use it is automatically withdrawn.
